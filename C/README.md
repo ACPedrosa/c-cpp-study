@@ -22,5 +22,5 @@ Este repositório contém uma sequência de exercícios práticos para treinar c
 ## Como compilar
 
 ```bash
-gcc main.c -o programa
-./programa
+gcc main.c -o nome_programa
+./nome_programa
